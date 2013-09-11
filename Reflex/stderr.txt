@@ -1,0 +1,3 @@
+Failed to open sound file "data/sounds/boing.mp3" (System error : The system cannot find the file specified.
+)
+Couldn't load sound die.wav.
